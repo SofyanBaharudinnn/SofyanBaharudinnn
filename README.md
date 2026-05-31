@@ -10,7 +10,7 @@
 
 <div align="center">
 
-###  I'm Sofyan Baharudin The Junior Web Developer
+### Hallo I'm Sofyan Baharudin The Junior Web Developer
 
 </div>
 
@@ -57,8 +57,8 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofyanBaharudinnn&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanBaharudinnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SofyanBaharudinnn&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanBaharudinnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
@@ -86,12 +86,10 @@
 
 ---
 
-### 🏆 Top Contributed Repo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Random Dev Quote
+### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SofyanBaharudinnn&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" width="48%"/>
-  &nbsp;
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 </p>
 
 ---
