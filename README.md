@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=SofyanBaharudin&fontSize=48&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Merauke%2C%20Papua%20Selatan%20🇮🇩&descAlignY=60&descSize=16&descColor=90e0ef" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=SofyanBaharudinnn&fontSize=48&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Merauke%2C%20Papua%20Selatan%20🇮🇩&descAlignY=60&descSize=16&descColor=90e0ef" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Hallo I'm Sofyan Baharudin The Junior Web Developer
+### Namaste 🙏 I'm Sofyan Baharudin
 
 </div>
 
@@ -37,9 +37,9 @@
 #### 📬 Follow Me On
 
 <p>
-  <a href="mailto:sofyanbaharudin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/sofyanbaharudinnn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://instagram.com/sofyannnnnnnnn._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/sofyanbaharudinnn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <br clear="right"/>
@@ -86,11 +86,15 @@
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-</p>
+<div align="center">
+
+> *"Developer yang hebat bukanlah mereka yang menghafal semua sintaks, melainkan mereka yang mampu memahami masalah, berpikir logis, dan terus mencari cara terbaik untuk menyelesaikannya."*
+>
+> **— Sofyan Baharudin**
+
+</div>
 
 ---
 
