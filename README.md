@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=SofyanBaharudinnn&fontSize=48&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Merauke%2C%20Papua%20Selatan%20🇮🇩&descAlignY=60&descSize=16&descColor=90e0ef" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=SofyanBaharudin&fontSize=48&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Merauke%2C%20Papua%20Selatan%20🇮🇩&descAlignY=60&descSize=16&descColor=90e0ef" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Namaste 🙏 I'm Sofyan Baharudin
+### Hallo I'm Sofyan Baharudin The Junior Web Developer
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### 🦅 About Me
 
-<img align="right" alt="Profile Image" width="280" src="https://raw.githubusercontent.com/SofyanBaharudinnn/SofyanBaharudinnn/main/W_.jpg"/>
+<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 &nbsp;&nbsp;🚀 Memulai perjalanan di dunia **Web Development** dengan PHP & Laravel
 
@@ -37,9 +37,9 @@
 #### 📬 Follow Me On
 
 <p>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:sofyanbaharudin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/sofyanbaharudinnn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://instagram.com/sofyanbaharudinnn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/sofyannnnnnnnn._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <br clear="right"/>
@@ -79,9 +79,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
