@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Sofyan Baharudin&fontSize=48&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Merauke%2C%20Papua%20Selatan%20🇮🇩&descAlignY=60&descSize=16&descColor=90e0ef" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=SofyanBaharudin&fontSize=48&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Merauke%2C%20Papua%20Selatan%20🇮🇩&descAlignY=60&descSize=16&descColor=90e0ef" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Sofyan Baharudin+here+🔥+!;Laravel+%26+PHP+Developer;JavaScript+Enthusiast;From+Merauke%2C+Papua+Selatan+🌏" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=SofyanBaharudin+here+🔥+!;Laravel+%26+PHP+Developer;JavaScript+Enthusiast;From+Merauke%2C+Papua+Selatan+🌏" alt="Typing SVG" />
 </div>
 
 <br/>
