@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Namaste 🙏 I'm Sofyan Baharudin
+###  I'm Sofyan Baharudin The Junior Web Developer
 
 </div>
 
