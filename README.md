@@ -54,18 +54,6 @@
 
 ---
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofyanBaharudinnn&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanBaharudinnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&cache_seconds=1800" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SofyanBaharudinnn&theme=dark&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9" width="60%" />
-</p>
-
----
 
 ### 💻 Tech Stack
 
